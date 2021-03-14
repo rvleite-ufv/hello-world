@@ -1,3 +1,3 @@
 # hello-world
 
-# Remote sensing and GIS researcher and enthusiast
+# Remote sensing and GIS researcher
